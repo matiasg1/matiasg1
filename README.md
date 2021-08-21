@@ -1,5 +1,5 @@
 <h2 align="center">Hola 👋, Soy Matias</h2>
-<h3 align="center">Un desarrollador de Software (Full Stack).</h3>
+<h3 align="center">Un desarrollador Web  (Full Stack).</h3>
 
 Technologies 🌠
 JavaScript Nodejs React Redux HTML5 CSS3 Bootstrap TypeScript PostgreSQL Heroku Google Cloud Git GitHub GitLab C#
