@@ -28,7 +28,6 @@ JavaScript Nodejs React Redux HTML5 CSS3 Bootstrap TypeScript PostgreSQL Heroku 
 
 Herramietas de desarrollo para cualquieras de las distintas tecnologias a utilizar
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
